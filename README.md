@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Hyojeong
 I wanna be a developer.
 
-- 🌱 I’m currently learning Mauchine Learning, AI, Data Science 
+- 🌱 I’m currently learning Machine Learning, AI, Data Science 
 - 📫 How to reach me: ryuhyojung@naver.com 
 
 
