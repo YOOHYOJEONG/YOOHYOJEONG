@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Hyojeong
 I wanna be a developer.
 
-- 🌱 I’m currently learning Machine Learning, AI, Data Science 
+- 🌱 I’m currently learning Machine Learning, AI, Computer Vision.
 - 📫 How to reach me: ryuhyojung@naver.com 
 
 <a href="https://iambeginnerdeveloper.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory blog-ce4e24?style=flat-square&logo=blog&logoColor=white"/></a>
