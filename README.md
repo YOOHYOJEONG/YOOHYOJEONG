@@ -5,7 +5,7 @@ I wanna be a developer.
 - 📫 How to reach me: ryuhyojung@naver.com 
 
 <a href="https://iambeginnerdeveloper.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory blog-ce4e24?style=flat-square&logo=blog&logoColor=white"/></a>
-<a href="https://iambeginnerdeveloper.notion.site/cf7d747d82964f64a772111af68ad5f3" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href="https://iambeginnerdeveloper.notion.site/AI-61789aea6a0349d6b808e3b43171e4d5" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="https://github.com/YOOHYOJEONG" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white"/></a>
 <a href="https://www.instagram.com/hyo_ya__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-a3669b?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
